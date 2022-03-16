@@ -1,5 +1,5 @@
 ### WELCOME HERE !!!
-## I'm Anastasiya Cherniavskaya, junior frontent developer / JavaScript coder.
+## I'm Anastasiya Cherniavskaya, junior frontent developer.
 
 - 💣 I enjoy bringing ideas to life in the browser!
 - 💣 I like to code things from scratch!
